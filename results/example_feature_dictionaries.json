@@ -1,0 +1,13 @@
+{
+  "This movie was absolutely amazing and entertaining": {
+    "movie": 1,
+    "absolutely": 1,
+    "amazing": 1,
+    "entertaining": 1
+  },
+  "The movie was boring and predictable": {
+    "movie": 1,
+    "boring": 1,
+    "predictable": 1
+  }
+}

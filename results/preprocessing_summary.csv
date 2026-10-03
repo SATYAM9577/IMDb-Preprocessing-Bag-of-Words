@@ -1,0 +1,7 @@
+measure,count
+documents,50000
+unique raw word tokens before preprocessing,99426
+unique tokens after cleaning/tokenization,99293
+unique tokens after stop-word removal (before lemmatization),99140
+unique tokens after lemmatization,89690
+unique CountVectorizer features after preprocessing,89690
